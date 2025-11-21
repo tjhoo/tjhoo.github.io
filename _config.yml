@@ -14,12 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Crafting Bytes
+
 author:
-  name: TJ Hoo
+  name: TJ
   email: tze.jing.hoo@gmail.com
 
-# Build settings
-markdown: kramdown
 theme: minima
+
 minima:
   hide_site_feed_link: true
+

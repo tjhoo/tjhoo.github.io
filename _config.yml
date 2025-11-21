@@ -15,12 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Crafting Bytes
 
-author:
-  name: TJ
-  email: tze.jing.hoo@gmail.com
+author: TJ
+email: tze.jing.hoo@gmail.com
 
 theme: minima
 
 minima:
   hide_site_feed_link: true
-

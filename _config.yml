@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Crafting Bytes
 
-author: TJ
+author: TJ Hoo
 email: tze.jing.hoo@gmail.com
 
 theme: minima
